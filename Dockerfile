@@ -6,7 +6,7 @@ USER root
 
 RUN yum -y install httpd
 
-RUN yum install https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
+RUN yum -y install epel-release
 
 RUN yum install http://rpms.remirepo.net/enterprise/remi-release-7.rpm
 
