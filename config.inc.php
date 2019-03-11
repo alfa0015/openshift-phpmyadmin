@@ -13,7 +13,7 @@ $cfg['Servers'][$i]['compress'] = false;
 $cfg['Servers'][$i]['AllowNoPassword'] = false;
 $cfg['UploadDir'] = '';
 $cfg['SaveDir'] = '';
-$cfg['Lang'] = 'en-utf-8';
+$cfg['Lang'] = 'es_ES';
 
 /**
  * Directories for saving/loading files from server
